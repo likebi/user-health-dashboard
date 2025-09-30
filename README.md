@@ -2,28 +2,28 @@ A React + TypeScript dashboard for Vitalz coding test. It fetches health data fr
 
 Features
 
--View user list from API
--Select a user to see their:
-   =Vitalz Score
-   =Sleep Data (Deep / Light / Awake)
-   =Heart Rate & HRV statistics
--Responsive design with Material UI and charts
+1.View user list from API
+2.Select a user to see their:
+   1)Vitalz Score
+   2)Sleep Data (Deep / Light / Awake)
+   3)Heart Rate & HRV statistics
+3.Responsive design with Material UI and charts
 
 Tech Stack
--React + TypeScript
--Material UI
--Axios
--Recharts & React Minimal Pie Chart
--Vite
+1.React + TypeScript
+2.Material UI
+3.Axios
+4.Recharts & React Minimal Pie Chart
+5.Vite
 
 Setup
 
 1.Clone the repo
-  -git clone https://github.com/likebi/user-health-dashboard.git
-  -cd user-health-dashboard
+  1)git clone https://github.com/likebi/user-health-dashboard.git
+  2)cd user-health-dashboard
 
 2.Install dependencies
-  -npm install
+  3)npm install
 
 3.Run development server
-  -npm run dev
+  4)npm run dev
